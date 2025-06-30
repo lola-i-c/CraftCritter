@@ -47,7 +47,7 @@ class ProfilePage extends StatelessWidget {
                 MaterialPageRoute(builder: (context) => const HomePage()),
               );
             }, 
-            child: Text('Profile'),
+            child: Text('Home Page'),
             
           ),
         ],
